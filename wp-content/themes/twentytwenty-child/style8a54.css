@@ -41,10 +41,7 @@ ul.primary-menu {
 	padding-top:0;
 }
 
-.entry-header{
-    display: none;
 
-}
 body:not(.overlay-header) .primary-menu > li > a, body:not(.overlay-header) .primary-menu > li > .icon, .modal-menu a, .footer-menu a, .footer-widgets a, #site-footer .wp-block-button.is-style-outline, .wp-block-pullquote:before, .singular:not(.overlay-header) .entry-header a, .archive-header a, .header-footer-group .color-accent, .header-footer-group .color-accent-hover:hover {
     color: #111 !important;
 }
